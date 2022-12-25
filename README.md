@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**MeeranB/MeeranB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack developer with experience mainly in Angular / Laravel.
 
-Here are some ideas to get you started:
+Below are some of the things I have worked on, namely:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Laravel mail
+
+A mailing system I created as part of a commercial development cycle, the business logic was recreated in Laravel / Blade with reference to an older deprecated Symfony / Twig codebase.
+
+### Netmatters Facsimile
+
+Created as part of my time at Netmatters, a replicated version of the Netmatters homepage and contact pages created with PHP and SCSS.
+
+### companyManager
+
+A Laravel app with CRUD functionality, pagination and basic authentication.
