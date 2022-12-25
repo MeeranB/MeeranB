@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a Full Stack developer with experience mainly in Angular / Laravel.
+I am a Full Stack developer with experience mainly in Angular / Laravel. 
 
-Below are some of the things I have worked on, namely:
+I am currently open to new opportunities, I am reachable via my [LinkedIn](https://www.linkedin.com/in/meeranb/)
+
+Below are descriptions of the pinned repositories:
 
 ### Laravel mail
 
