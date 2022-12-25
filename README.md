@@ -6,11 +6,11 @@ Below are some of the things I have worked on, namely:
 
 ### Laravel mail
 
-A mailing system I created as part of a commercial development cycle, the business logic was recreated in Laravel / Blade with reference to an older deprecated Symfony / Twig codebase.
+A mailing system I created as part of a commercial development cycle, the business logic was recreated in Laravel / Blade with reference to a deprecated Symfony / Twig codebase.
 
 ### Netmatters Facsimile
 
-Created as part of my time at Netmatters, a replicated version of the Netmatters homepage and contact pages created with PHP and SCSS.
+A replicated version of the Netmatters homepage and contact pages with a basic back-end for storing contact form data, created with vanilla PHP and SCSS.
 
 ### companyManager
 
